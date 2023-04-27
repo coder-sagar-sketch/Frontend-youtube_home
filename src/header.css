@@ -1,0 +1,46 @@
+body{
+    margin: 0px;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    position: sticky;
+    z-index: 100;
+    top: 0;
+    background-color: white;
+    
+    
+}
+.left_pic{
+    height: 25px;
+    object-fit: contain;
+    margin-left: 20px;
+}
+.middle{
+    display: flex;
+    align-items: center;
+    width: 40%;
+    
+    border: 1px solid lightgray;
+}
+.searchbutton{
+    width: 50px!important;
+    background-color: lightgray;
+}
+.right{
+    display: flex;
+    align-items: center;
+    margin-right: 8px;
+    
+    }
+ .middle > input{
+        flex: 1;
+        border: none;
+        
+    }
+.textarea{
+    padding: 4px;
+   
+}

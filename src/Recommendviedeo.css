@@ -1,0 +1,14 @@
+.recommendviedeo{
+    flex: 0.8;
+    padding: 20px 10px;
+    padding-bottom: 0px;
+    background-color: lightgray;
+}
+.recommendviedeo >h2{
+    margin-left: 5px;
+    margin-bottom: 20px;
+}
+.recommendvideo{
+    display: flex;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,37 @@
+.viedeoCard{
+    margin-bottom: 40px;
+    width: 260px;
+}
+.thumbnail{
+    height: 140px;
+    width: 250px;
+    border-radius: 10px;
+
+}
+.viedeoInfo{
+    display: flex;
+    margin-top: 10px;
+    padding-right: 30px;
+}
+.viedeoText{
+    margin-left: 15px;
+    margin-top: 0px;
+}
+.viedeoText > h4{
+    font-size: 14px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+.viedeoText > p{
+    font-size: 14px;
+    margin: 0px;
+    color: gray;
+}
+.videoT{
+    margin-top: 0px;
+
+}
+.avatarImage{
+    height: 30px !important;
+    width: 30px !important;
+}
